@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1830
+slug  : the-jury-theorem
+seal  : b5684b893d13218abcad93393fa4175c4453db7c693fdae0824678b8ab811096
+prev  : cb407f659f0e5241430eebf3d1449a71bc4fa81d28a0b786032bce434f30ebfc
+link  : 7f873711f1522cf8f4460bfeda9f8d41da569c3fda2e00816f2d0840899543e1
+head  : 7f873711f1522cf8f4460bfeda9f8d41da569c3fda2e00816f2d0840899543e1
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
